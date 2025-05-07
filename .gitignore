@@ -1,0 +1,10 @@
+# Unreal Engine auto-generated files and folders to ignore
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
+.vs/
+*.sln
+*.opensdf
+*.sdf
+*.VC.db
